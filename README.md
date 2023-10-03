@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 ##
 
 <div>
- <a href="https://www.linkedin.com/in/matheus-bomfim-ferreira-fonseca-33a840117/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Matheus Bomfim">
+ <a href="https://www.linkedin.com/in/matheus-bomfim-ferreira-fonseca" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Matheus Bomfim">
 </a>
 </div>
