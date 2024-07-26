@@ -1,6 +1,6 @@
 ### 
 - 👋 Hi, I'm Matheus Bomfim.
-- 🔭 I’m currently working on developing simple web pages.
+- 🔭 I’m currently working on developing simple web pages and systems.
 - 🌱 I’m currently learning about some frameworks, Desktop Apps and Python.
 
   
